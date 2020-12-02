@@ -60,6 +60,6 @@
 
 </details>
 
-[website]: https://https://portfolio-47538.web.app
+[website]: https://portfolio-47538.web.app
 [twitter]: https://twitter.com/kodekool
 [linkedin]: https://linkedin.com/in/jwp528
