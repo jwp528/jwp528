@@ -11,7 +11,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://jwp528.vercel.app/api/spotify" alt="jwp528 Spotify Playing" width="350" />](https://open.spotify.com/user/4co704t3wkn7mim491j7r4ho3)
+[<img src="https://now-playing.jwp528.vercel.app/api/spotify" alt="jwp528 Spotify Playing" width="350" />](https://open.spotify.com/user/4co704t3wkn7mim491j7r4ho3)
 
 ### Connect with me:
 
