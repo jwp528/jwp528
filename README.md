@@ -39,7 +39,6 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Coping with Covid](https://portfolio-47538.web.app/posts/uxfCGOzz6FUfUkIzo3mC)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://portfolio-47538.web.app/posts)
