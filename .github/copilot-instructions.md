@@ -9,14 +9,20 @@ This is Josh Parsons' personal GitHub profile repository. It serves as a portfol
 - **Target Audience**: Potential employers, collaborators, and the developer community
 
 ## Technology Stack & Preferences
-Josh works with a diverse technology stack including:
-- **.NET** (primary focus, .NET 7+)
-- **JavaScript/Node.js** 
-- **PHP**
-- **Vue.js** for frontend development
+Josh primarily uses the latest technologies including:
+- **Latest .NET** (current focus)
+- **C#** (primary language)
+- **Blazor/Razor Pages** for web development
+- **JavaScript** for frontend interactions
 - **HTML5/CSS3/Sass** for styling
 - **SQL/MySQL** for databases
 - **Git/GitHub** for version control
+
+## Past Experience
+Josh has extensive experience with technologies he's used over the years:
+- **PHP** (5+ years)
+- **Node (Vue/Express)** (3 years)
+- **Python** (3 years)
 
 ## Coding Standards & Style
 - Follow clean, readable code practices
