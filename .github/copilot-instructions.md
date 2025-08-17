@@ -1,7 +1,7 @@
 # GitHub Copilot Instructions
 
 ## Repository Overview
-This is Josh Parsons' (aka Chaos) personal GitHub profile repository. It serves as a portfolio showcase highlighting his software development work, projects, and technical expertise.
+This is Josh Parsons' personal GitHub profile repository. It serves as a portfolio showcase highlighting his software development work, projects, and technical expertise.
 
 ## Repository Purpose
 - **Primary Function**: Personal GitHub profile README and portfolio display
